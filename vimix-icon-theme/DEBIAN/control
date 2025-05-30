@@ -1,0 +1,17 @@
+Package: vimix-icon-theme
+Version: 20250210-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 141756
+Section: x11
+Priority: optional
+Homepage: https://github.com/vinceliuice/Vimix-icon-theme
+Description: Vimix icon theme for linux desktops
+ .
+ This package contains the following icon themes:
+  - Vimix
+  - Vimix-dark
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/vinceliuice/Vimix-icon-theme

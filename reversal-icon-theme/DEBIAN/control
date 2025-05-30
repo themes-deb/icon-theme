@@ -1,0 +1,17 @@
+Package: reversal-icon-theme
+Version: 20250229-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 162740
+Section: x11
+Priority: optional
+Homepage: https://github.com/yeyushengfan258/Reversal-icon-theme
+Description: A colorful Design Rectangle icon theme for linux desktops
+ .
+ This package contains the following icon themes:
+  - Reversal
+  - Reversal-dark
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/yeyushengfan258/Reversal-icon-theme

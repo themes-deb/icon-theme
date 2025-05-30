@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if command -v update-icon-caches >/dev/null; then
+		update-icon-caches /usr/share/icons/Colloid /usr/share/icons/Colloid-dark /usr/share/icons/Colloid-light
+	fi
+fi
