@@ -1,0 +1,17 @@
+Package: win11-icon-theme
+Version: 20250510-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 152128
+Section: x11
+Priority: optional
+Homepage: https://github.com/yeyushengfan258/Win11-icon-theme
+Description: A colorful design icon theme for linux desktops
+ .
+ This package contains the following icon themes:
+  - Win11
+  - Win11-dark
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/yeyushengfan258/Win11-icon-theme

@@ -1,0 +1,9 @@
+| 主题 | 作者 | 包名 |
+| --- | ---- | --- |
+| [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) | vinceliuice | tela-icon-theme |
+| [Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) | vinceliuice | fluent-icon-theme |
+| [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) | vinceliuice | whitesur-icon-theme |
+| [Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) | vinceliuice | colloid-icon-theme |
+| [Vimix-icon-theme](https://github.com/vinceliuice/Vimix-icon-theme) | vinceliuice | vimix-icon-theme |
+| [Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) | yeyushengfan258 | win11-icon-theme |
+| [Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) | yeyushengfan258 | reversal-icon-theme |

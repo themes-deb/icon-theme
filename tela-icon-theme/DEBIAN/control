@@ -1,0 +1,18 @@
+Package: tela-icon-theme
+Version: 20250210-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 185008
+Section: x11
+Priority: optional
+Homepage: https://github.com/vinceliuice/Tela-icon-theme
+Description: A flat colorful Design icon theme
+ .
+ This package contains the following icon themes:
+  - Tela
+  - Tela-dark
+  - Tela-light
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/vinceliuice/Tela-icon-theme

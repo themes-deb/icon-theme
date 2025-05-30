@@ -1,0 +1,18 @@
+Package: fluent-icon-theme
+Version: 20250226-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 163112
+Section: x11
+Priority: optional
+Homepage: https://github.com/vinceliuice/Fluent-icon-theme
+Description: Fluent icon theme for linux desktops
+ .
+ This package contains the following icon themes:
+  - Fluent
+  - Fluent-dark
+  - Fluent-light
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/vinceliuice/Fluent-icon-theme

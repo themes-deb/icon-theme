@@ -1,0 +1,18 @@
+Package: whitesur-icon-theme
+Version: 20250210-1
+Architecture: all
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 177980
+Section: x11
+Priority: optional
+Homepage: https://github.com/vinceliuice/WhiteSur-icon-theme
+Description: MacOS Big Sur style icon theme for linux desktops
+ .
+ This package contains the following icon themes:
+  - WhiteSur
+  - WhiteSur-dark
+  - WhiteSur-light
+ Only the standard one is selected.
+ .
+ If you want to follow development, more information here:
+ https://github.com/vinceliuice/WhiteSur-icon-theme
